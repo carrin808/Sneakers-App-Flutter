@@ -21,6 +21,6 @@ I Hope you Like this Project❤!
 * simple_animations: ^4.0.1
 * supercharged: ^2.1.1
 ## Links
-* [My Socials](https://znap.link/CodeWithFlexz)
-* [Youtube channel](https://www.youtube.com/channel/UCLVrYXt3SL9rT-IcDmgU9Wg)
-* [Instagram](https://instagram.com/codewithflexz)
+
+* [Instagram](https://instagram.com/darealdr808)
+* [TikTok](https://www.tiktok.com/@darealdr808?is_from_webapp=1&sender_device=pc)
